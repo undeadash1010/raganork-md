@@ -36,7 +36,7 @@
         "HEROKU_APP_NAME": {
             "description": "Exact name which you gave at the top",
             "required": true,
-            "value":"ragmd1"
+            "value":"ragmd10"
         },
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
