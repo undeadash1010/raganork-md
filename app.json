@@ -11,7 +11,7 @@
         "HANDLERS": {
             "description": "Prefix of commands. Can be also false",
             "required": true,
-            "value":".,"
+            "value":"/"
         },
         "ANTILINK_WARN": {
             "description": "Groups for antilink (JIDS)",
@@ -26,22 +26,22 @@
         "READ_COMMAND": {
             "description": "Bot will read all commands (blue tick). Can be also false",
             "required": true,
-            "value":"true"
+            "value":"false"
         },
        "HEROKU_API_KEY": {
             "description": "For updating bot and setting vars remotely",
             "required": true,
-            "value":""
+            "value":"e36b2b9d-6822-4cea-8ecc-8e69a4d50e25"
         },
         "HEROKU_APP_NAME": {
             "description": "Exact name which you gave at the top",
             "required": true,
-            "value":""
+            "value":"ragmd1"
         },
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
-            "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ"
+            "value":"⏤͟͞𝘼𝙎𝙃么𝙐𝘾𝙃𝙄𝙃𝘼"
         },
         "CHATBOT": {
             "description": "AI chatbot",
@@ -61,12 +61,12 @@
         "MODE": {
             "description": "Private or public",
             "required": true,
-            "value":"private"
+            "value":"public"
         },
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":"919074309534"
+            "value":"32460428586"
         },
         "ALIVE": {
             "description": "Alive message {image/link}, {sender} can also be used",
@@ -74,7 +74,7 @@
             "value":"{pp} Active since {uptime}\n User:{sender}"
         },
        "SESSION": {
-            "description": "Your MD session",
+            "description": "Raganork~1a794c3a1d324152ffe6903d7312728e:4545502f444956463930673d",
             "required": true
              
         }
